@@ -15,3 +15,5 @@
 ![](https://github.com/Forairaaaaa/Chappie-II/blob/main/Pics/captrue3.png?raw=true)
 
 ![](https://github.com/Forairaaaaa/Chappie-II/blob/main/Pics/captrue4.png?raw=true)
+
+注意；ArduinoFFT的依赖在原文件中，依赖库更新语法此版已改
